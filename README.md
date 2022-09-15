@@ -24,4 +24,13 @@ import numpy as np
 
 - In order to have the final stamp for the lanes identification, i used th hough transform function. 
 
-**to know more about hough transform visit https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html**
+**To know more about hough transform visit https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html**
+
+- now that i found the lanes, i moved to the lane crossing detection. it's a bit tricky but i found an easy way to know when the crossing is happning. I created an imaginary center point (points the car center) and every time this center getting close to one of the lanes (left or right) the lane crossing alerting.
+
+### Final result:
+
+<img src="(https://user-images.githubusercontent.com/101269937/190495224-7172e0db-3a2a-4675-9e1b-e6ae59ab04bb.jpg" width="250" height="200">
+
+<img src="https://user-images.githubusercontent.com/101269937/190495281-636c873f-a7d8-4489-b23a-a8b6de293fce.jpg" width="250" height="200">
+
