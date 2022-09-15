@@ -30,7 +30,7 @@ import numpy as np
 
 ### Final result:
 
-<img src="(https://user-images.githubusercontent.com/101269937/190495224-7172e0db-3a2a-4675-9e1b-e6ae59ab04bb.jpg" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/101269937/190495224-7172e0db-3a2a-4675-9e1b-e6ae59ab04bb.jpg" width="250" height="200">
 
 <img src="https://user-images.githubusercontent.com/101269937/190495281-636c873f-a7d8-4489-b23a-a8b6de293fce.jpg" width="250" height="200">
 
