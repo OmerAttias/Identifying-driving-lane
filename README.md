@@ -22,4 +22,6 @@ import numpy as np
 
 <img src="https://user-images.githubusercontent.com/101269937/190393005-c3e54413-adfa-43ed-ad28-37e707d98a3e.jpg" width="250" height="200">
 
-- 
+- In order to have the final stamp for the lanes identification, i used th hough transform function. 
+
+**to know more about hough transform visit https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html**
