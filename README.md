@@ -1,4 +1,4 @@
-# "Identifying driving lanes"
+# "Identifying Driving lanes"
 Identifying driving lanes using "Hough Transform" theory
 
 ## Installation packages
