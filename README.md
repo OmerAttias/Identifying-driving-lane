@@ -26,7 +26,7 @@ import numpy as np
 
     - **To know more about hough transform visit https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html**
 
-- now that i found the lanes, i moved to the lane crossing detection. it's a bit tricky but i found an easy way to know when the crossing is happning. I created an imaginary center point (points the car center) and every time this center getting close to one of the lanes (left or right) the lane crossing alerting.
+- The last part of the project is the lane crossing detection. it's a bit tricky but i found an easy way to know when the crossing is happning. I created an imaginary center point (points the car center) and every time this center getting close to one of the lanes (left or right) the lane crossing alerting.
 
 ### Final result:
 
